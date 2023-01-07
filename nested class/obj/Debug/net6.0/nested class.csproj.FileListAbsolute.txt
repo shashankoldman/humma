@@ -1,0 +1,15 @@
+C:\Users\Shashank\Desktop\first c#\nested class\nested class\bin\Debug\net6.0\nested class.exe
+C:\Users\Shashank\Desktop\first c#\nested class\nested class\bin\Debug\net6.0\nested class.deps.json
+C:\Users\Shashank\Desktop\first c#\nested class\nested class\bin\Debug\net6.0\nested class.runtimeconfig.json
+C:\Users\Shashank\Desktop\first c#\nested class\nested class\bin\Debug\net6.0\nested class.dll
+C:\Users\Shashank\Desktop\first c#\nested class\nested class\bin\Debug\net6.0\nested class.pdb
+C:\Users\Shashank\Desktop\first c#\nested class\nested class\obj\Debug\net6.0\nested class.csproj.AssemblyReference.cache
+C:\Users\Shashank\Desktop\first c#\nested class\nested class\obj\Debug\net6.0\nested class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shashank\Desktop\first c#\nested class\nested class\obj\Debug\net6.0\nested class.AssemblyInfoInputs.cache
+C:\Users\Shashank\Desktop\first c#\nested class\nested class\obj\Debug\net6.0\nested class.AssemblyInfo.cs
+C:\Users\Shashank\Desktop\first c#\nested class\nested class\obj\Debug\net6.0\nested class.csproj.CoreCompileInputs.cache
+C:\Users\Shashank\Desktop\first c#\nested class\nested class\obj\Debug\net6.0\nested class.dll
+C:\Users\Shashank\Desktop\first c#\nested class\nested class\obj\Debug\net6.0\refint\nested class.dll
+C:\Users\Shashank\Desktop\first c#\nested class\nested class\obj\Debug\net6.0\nested class.pdb
+C:\Users\Shashank\Desktop\first c#\nested class\nested class\obj\Debug\net6.0\nested class.genruntimeconfig.cache
+C:\Users\Shashank\Desktop\first c#\nested class\nested class\obj\Debug\net6.0\ref\nested class.dll
